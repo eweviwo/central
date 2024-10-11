@@ -17,19 +17,19 @@ The central repository (current one you are viewing) contains the source code fo
 
 # Research Development
 
-Research is developed in this [repo](). Our research is abstracted in a notepad file by using some of the conventions of [Backus–Naur form grammar](). The research will outlay the focus points or thematic areas for our podcasts or discussions. Producers and presenters will use this file as their reference points for intellectual development of content. It is open to input and anyone can raise an issue or PR about it.
+Research is developed in this [repo](https://github.com/eweviwo/research). Our research is abstracted in a notepad file by using some of the conventions of [Backus–Naur form grammar](). The research will outlay the focus points or thematic areas for our podcasts or discussions. Producers and presenters will use this file as their reference points for intellectual development of content. It is open to input and anyone can raise an issue or PR about it.
 
 # Applications (for Producers & Presenters)
 
-This section contains our aproach to accepting and vetting interest to make a podcast episode from anyone. There is an application link for [Producers]() and [Presenters](). Kindly click on a choice of your application. The application process is open to improvement so we have provided a set of notepad files to invite anyone who can improve the process by submitting an issue or PR also. The repo is available [here]().
+This section contains our aproach to accepting and vetting interest to make a podcast episode from anyone. There is an application link for [Producers]() and [Presenters](). Kindly click on a choice of your application. The application process is open to improvement so we have provided a set of notepad files to invite anyone who can improve the process by submitting an issue or PR also. The repo is available [here](https://github.com/eweviwo/applications).
 
 # Production System Development 
 
-There will be a production system to bring together producers, presenters and editors to collaborate. Accepted applications from producers and presenters will have access to the production system. Editors will be sent an invite by producers. Currently, there is no source code for it except a set of functional and non-functional requirements for its development in a notepd file. You can visit the repo by clicking on this [link]().
+There will be a production system to bring together producers, presenters and editors to collaborate. Accepted applications from producers and presenters will have access to the production system. Editors will be sent an invite by producers. Currently, there is no source code for it except a set of functional and non-functional requirements for its development in a notepd file. You can visit the repo by clicking on this [link](https://github.com/eweviwo/system).
 
 # Content Delivery Network Development
 
-The project wishes to work on its own CDN at some point. This will serve our applications with text articles, graphics, audio and video media files as the BAG shows. There is no source code for it. There is also no functional and non-functional requirements for it now. Currently the only repo with no file aside its READ ME. Once can access the repo [here](). 
+The project wishes to work on its own CDN at some point. This will serve our applications with text articles, graphics, audio and video media files as the BAG shows. There is no source code for it. There is also no functional and non-functional requirements for it now. Currently the only repo with no file aside its READ ME. Once can access the repo [here](https://github.com/eweviwo/cdn). 
 
 # Other Developments
 
