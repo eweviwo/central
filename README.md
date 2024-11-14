@@ -47,11 +47,5 @@ You can simply download the app in any of the app stores. Currently we are on [G
 ## How to contribute to the project
 
 Kindly click on the CONTRIBUTING.MD file by the side to read its content.
-## Acknowledgements
 
-We wish to express our profound appreciation to the following who have helped us in one way or the other for the project to have evolved to this stage. 
-
- - [Person 1]()
- - [Person 2]()
- - [Person 3]()
 
