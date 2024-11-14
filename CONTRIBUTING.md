@@ -21,7 +21,7 @@ Research is developed in this [repo](https://github.com/eweviwo/research). Our r
 
 # Applications (for Producers & Presenters)
 
-This section contains our aproach to accepting and vetting interest to make a podcast episode from anyone. There is an application link for [Producers]() and [Presenters](). Kindly click on a choice of your application. The application process is open to improvement so we have provided a set of notepad files to invite anyone who can improve the process by submitting an issue or PR also. The repo is available [here](https://github.com/eweviwo/applications).
+This section contains our approach to accepting and vetting interest to make a podcast episode from anyone. There are application links for interested producers and presenters in this repo. The application process is open to improvement so we have provided a set of instructions towards how to do it. The repo is available [here](https://github.com/eweviwo/applications).
 
 # Production System Development 
 
