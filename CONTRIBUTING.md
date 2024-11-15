@@ -33,7 +33,7 @@ The project will like to work on its own CDN at some point. This will serve our 
 
 # Other Developments
 
-If there is any paticular spot for development you want to undertake and not sectioned in any of the above, we encourage you to reach out to us on our [Twitter or X page](https://twitter.com/eweviwo). Our DMs are open. Please use our Twitter DMs as your primary messaging option for now as we are working on improving more communication options in the future.
+If there is any particular area for the project's development you want to undertake and not sectioned in any of the above areas we have discussed, we encourage you to reach out to us on our [X page (formerly Twitter)](https://twitter.com/eweviwo). Our DMs are open. We are working on improving more communication options in the future.
 
 # Our Changelog Document
 
