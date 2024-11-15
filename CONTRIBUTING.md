@@ -29,7 +29,7 @@ There will be a production system to bring together producers, presenters and ed
 
 # Content Delivery Network Development
 
-The project wishes to work on its own CDN at some point. This will serve our applications with text articles, graphics, audio and video media files as the BAG shows. There is no source code for it. There is also no functional and non-functional requirements for it now. Currently the only repo with no file aside its READ ME. Once can access the repo [here](https://github.com/eweviwo/cdn). 
+The project will like to work on its own CDN at some point. This will serve our applications with text articles, graphics, audio and video media files according to the BAG description. There is no functional and non-functional requirements for it currently. It is also the only repo with no other file aside its READ ME. Once can access the repo [here](https://github.com/eweviwo/cdn). 
 
 # Other Developments
 
