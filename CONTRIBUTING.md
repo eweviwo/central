@@ -37,6 +37,6 @@ If there is any paticular spot for development you want to undertake and not sec
 
 # Our Changelog Document
 
-As much as we are making it faster for anyone to get started on any part of the project, we also want to make it easy for anyone to get a snapshot of the features of the total project at any point in time. There will be a changelog driven release document to inform anyone of this snapshot. Maintainers will direct the semantic versioning. Its file will be stored in the central repo.
+As much as we want to make it clearer and faster for anyone to get started on any part of the project, we also want to make it easier for anyone to get a snapshot of the high level features of the project at any time. There will be a changelog driven release document to inform anyone of this snapshot. All maintainers will direct its semantic versioning. Its file will be stored in the central repo.
 
-Feeling informed of everything? Go work on a section!
+Feeling better informed of the project's breakdown? Take up the challenge and go work on a section!
