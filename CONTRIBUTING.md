@@ -25,7 +25,7 @@ This section contains our approach to accepting and vetting interest to make a p
 
 # Production System Development 
 
-There will be a production system to bring together producers, presenters and editors to collaborate. Accepted applications from producers and presenters will have access to the production system. Editors will be sent an invite by producers. Currently, there is no source code for it except a set of functional and non-functional requirements for its development in a notepd file. You can visit the repo by clicking on this [link](https://github.com/eweviwo/system).
+There will be a production system to bring together producers, presenters and editors to work together. The production system will be an application for specific collaboration and not a media editing tool. Development of the application will take place in its own repo. You can visit the repo by clicking on this [link](https://github.com/eweviwo/system).
 
 # Content Delivery Network Development
 
