@@ -9,7 +9,7 @@ If you are already familiar with open source development, you can move on to rea
 
 # Understanding the BAG
 
-BAG stands for Big Architecture Graphic in our community development. It is a single visual that shows how the different sections of the project come together. The BAG defines the contribution constructs of the work of this community. The file is hosted on [Figma]() but has its dedicated repoitory [here](). It is open to change so anyone can raise an issue or PR about it. 
+BAG stands for Big Architecture Graphic in our community development. It is a single visual that shows how the different sections of the project come together. We encourage contributors to understand this repo and the Changelog first before moving to other parts. One can access the BAG repo through [here](https://github.com/eweviwo/BAG). 
 
 # Mobile App Development
 
