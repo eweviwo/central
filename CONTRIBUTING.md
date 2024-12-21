@@ -17,7 +17,7 @@ The central repository (current one you are viewing) contains the source code fo
 
 # Research Development
 
-Research is developed in this [repo](https://github.com/eweviwo/research). Our research is abstracted in a notepad file by using some of the conventions of [Backus–Naur form grammar](). The research will outlay the focus points or thematic areas for our podcasts or discussions. Producers and presenters will use this file as their reference points for intellectual development of content. It is open to input and anyone can raise an issue or PR about it.
+Research is developed in this [repo](https://github.com/eweviwo/research). Our research is abstracted into a single a notepad file for now. Producers and presenters will use this file as their reference points for content development. We welome diverse researchers and enthusiasts to contribute to it.
 
 # Applications (for Producers & Presenters)
 
