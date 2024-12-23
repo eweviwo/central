@@ -1,12 +1,12 @@
 # ACKNOWLEDGEMENT
 
-The project has come far not because the founders did it alone, but because of the support in tangible and intangible ways we have recieved along the way. We want to create a continual list of appreciation dedicating to thanking people, institutions and others who help us in one way or the other for the project to progress. 
+The project has come far not because the founders did it alone, but because of the support we have recieved along the way, both tangible and intagible. We want to create a continual appreciation list dedicated to thanking people, institutions and others who have helped us in one way or the other for the project's progress. 
 
-Our needs for our first year of operation is summed up to USD $3,000. This includes expenses on cloud services and equipment mainly. One can have a look at the [categorical breakdown here](https://drive.google.com/file/d/10gl1o6-928naqiFTMMYLVYI6dKCafpDw/view?usp=sharing "categorical breakdown here"). 
+We need some [donation](https://drive.google.com/file/d/10gl1o6-928naqiFTMMYLVYI6dKCafpDw/view?usp=sharing), we ask that if you can kindly support, do reach out to us. 
 
 We want to thank the following; 
 
-- Emeritus Professors D.E.K. Amenumey and G.K. Nukunya, who we have met in person before. They gave very good advice on research. 
+- Emeritus Professors D.E.K. Amenumey and G.K. Nukunya, who we have met in person before. They counselled us on researching. 
 
 - Organisation for Research on Eweland (O.R.E.), whose publications has helped us in developing our foundational content. 
 
@@ -14,4 +14,4 @@ We want to thank the following;
 
 - Mabel Nunekpeku, a post-graduate linguistics student, who has being very instrumental in developing the literacy lessons. 
 
-- Etornam Sunnu, A Google Developer Expert. He is the first maintainer invited to the project. 
+- Etornam Sunnu, A Google Developer Expert. He is the first contributor and maintainer invited to the project. 
