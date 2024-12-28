@@ -37,6 +37,6 @@ If there is any particular area for the project's development you want to undert
 
 # Our Changelog Document
 
-As much as we want to make it clearer and faster for anyone to get started on any part of the project, we also want to make it easier for anyone to get a snapshot of the high level features of the project at any time. There will be a changelog driven release document to inform anyone of this snapshot. All maintainers will direct its semantic versioning. Its file will be stored in the central repo.
+It is the project's goal to present an informing snapshot of the latest updates of the project in one document. This document will guide the overall versioning of the project. Only maintainers will direct its update. Only the central repository will contain the Changelog document.
 
 Feeling better informed of the project's breakdown? Take up the challenge and go work on a section!
