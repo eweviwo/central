@@ -37,15 +37,15 @@ We are bred in the city for much of our lives and have found gaps about our own 
 
 Starting the podcast series in 2023, we wrote [a piece](https://eweviwo.substack.com/p/corporate-culture-and-self-transcendence) on why we took this journey. 
 
-Starting this open source project in 2024, we wrote [another piece]() on why we taking this approach.
+Starting this open source project in 2024, we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we taking this approach.
 ## What problem does it solve?
 
 The project will increase accessibility to (Ghanaian) Ewe cultural knowledge and reduce the mean time to socialise someone or be socialised yourself. 
 ## How to use the project
 
-You can simply download the app in any of the app stores. Currently we are on [Google Play Store]() and [Apple Store](). 
+You can simply download the app in any of the app stores. Currently it is unreleased. 
 ## How to contribute to the project
 
-Kindly click on the CONTRIBUTING.MD file by the side to read its content.
+Kindly click on the CONTRIBUTING.MD file to read its content.
 
 
