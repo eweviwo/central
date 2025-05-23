@@ -1,8 +1,6 @@
 # ACKNOWLEDGEMENT
 
-The project has come far not because the founders did it alone, but because of the support we have recieved along the way, both tangible and intangible. We want to create a continual appreciation list dedicated to thanking people, institutions and others who have helped us in one way or the other for the project's progress. 
-
-We need some [donation](https://drive.google.com/file/d/10gl1o6-928naqiFTMMYLVYI6dKCafpDw/view?usp=sharing), we ask that if you can kindly support, do reach out to us. 
+The project is grateful to people, groups and institutions who have helped us in one way or the other for its progress. We continuously [welcome your donation](https://www.notion.so/Donations-1fc0d19c3976807ba1fded446a64f2ec?pvs=4). 
 
 We want to thank the following; 
 
@@ -16,4 +14,4 @@ We want to thank the following;
 
 - Mabel Nunekpeku, a post-graduate linguistics student, who has being very instrumental in developing the literacy lessons. 
 
-- Etornam Sunnu, A Google Developer Expert. He is the first contributor and maintainer invited to the project. 
+- Etornam Sunnu, A Google Developer Expert (GDE). He is the first maintainer invited to the project. 
