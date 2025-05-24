@@ -6,7 +6,7 @@
 
 ## Title Meaning
 
-Eʋeviwó is an Eʋe phrase whiles its spelling in paranthesis (Eweviwo) is a unicode derivation to make it internet addressable for 	the project's application needs.
+Eʋeviwó is an Eʋe phrase whiles its spelling in paranthesis (Eweviwo) is a unicode derivation to make it internet addressable for the project's application needs.
 
 Eʋeviwó consists of three Eʋe words, which are Eʋe, vi and wó. Eʋe (or Ewe, as written in English context) is an African language, vi means child and wó serves as a plural marker in Eʋe. The words can come together as 'Children of Ewe', 'Ewe Children' or metaphorically 'Descendants of Ewe People'. 
 
@@ -15,9 +15,9 @@ The inspiration to name the project that way was borne out of the humility of th
 
 At its core, the project is about [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Eʋe cultural education. The aim is to make our cultural content more accessible to a new generation of Ewes around the world by using modern collaboration tools. 
 
-The project majorly involves a learning and a contribution section broken down into sub parts to make its architecture of standing out in building a formidable knowledge base. 
+The project majorly involves building an infrastructure to facilitate a content experience through a mobile app. The infrastructure is divided into various repositories that will be gradually engineered to work as a system. 
 
-The learning section requires less technicality as its steps are similar to downloading any mobile app in the world and consuming its content on your phone. The contribution section invites anyone to work on any part of the learning experience, knowledge management, production management, application programming, project development and other advancement. 
+The learning experience for the project covers research development, knowledge management, production management, application programming, project development and others to name a few. 
 
 Contribution from anyone will be guided by standards which will also be openly managed. 
 ## Welcoming Everyone
@@ -43,7 +43,7 @@ Starting this open source project in 2024, we wrote [another piece](https://ewev
 The project will increase accessibility to (Ghanaian) Ewe cultural knowledge and reduce the mean time to socialise someone or be socialised yourself. 
 ## How to use the project
 
-You can simply download the app in any of the major app stores (Android & Apple) on [our home page](https://linktr.ee/eweviwo). 
+One can currently listen to some already produced podcasts from our [our home page](https://linktr.ee/eweviwo) whiles our mobile app is under development. 
 ## How to contribute to the project
 
 We encourage any prospective contributor to to begin by visiting [the breakdown page](https://github.com/eweviwo/central/blob/main/BREAKDOWN.md) of the project.
