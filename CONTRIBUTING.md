@@ -8,8 +8,8 @@ Contributions are divided in levels. Some contributors will belong to teams. Tea
 
 It is alright to start your contribution from the first step (App User). However, if one is technically proficient to contribute on a higher level, you are eoncuraged to find a way to climb up the guideline structure. The contribution levels are as follows;
 
-### App Users
-- You are encuraged to consume content on the mobile app. 
+### Interested Contributor
+- You are encouraged to consume the few produced content on [our Linktree](https://linktr.ee/eweviwo). 
 - Evangelise the project to attract new audience. 
 
 ### Upcoming Contributors
@@ -27,7 +27,7 @@ It is alright to start your contribution from the first step (App User). However
 
 ### Core Contributor
 Core contributors will consist of three teams. Teams are Engineering, Community and Content. 
-- Engineering team will be cater for the project's technical infrastructure. 
+- Engineering team will cater for the project's technical infrastructure. 
 - Community team will cater for the overall community engagement effort.
 - Content team will cater for the content experience. 
 
