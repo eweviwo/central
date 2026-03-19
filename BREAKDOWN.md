@@ -1,28 +1,28 @@
 
 # Breakdown
 
-To start with, Eweviwo has a large development surface area for now. Development, publishing and feedback will reduce this surface area with time. It is well thought into the roadmap. 
+Eweviwo project has a big development area for now. With time about its development, content publishing and feedback, a lot more will be simplified. We invite dedication from any kind of contributor. 
 
-Currently, the project has 6 repositories. They have been ideated based on an end-to-end approach towards bespoke engineering and catering for probable varied contributions. 
+Currently, the project has 6 repositories. They are approached with a decentralised design but will be engineered to work as a system. Each repository has its documentation approach, tech stack choices and a specific standard it wants to set. 
 
-The repositories are listed in links to their respective pages. Extra details for any prospective contributor to make a quick decision is in bracket below the repository link. No maintainer means the repository is currently maintained by one of the founders.
+Although each repository will have some specific contribution guideline, prospective contributors are encouraged to read the [the contribution page](https://github.com/eweviwo/central/blob/main/CONTRIBUTING.md). An AI policy for the project will be made available later. 
 
-General contribution guideline can be found on [the contribution page](https://github.com/eweviwo/central/blob/main/CONTRIBUTING.md). Respective repositories may have added contribution guidelines to produce a desired output. Choosing one repository to work on is recommended to any contributor. 
+It is recommended to any potential contributor to keep an eye on the guiding architecture below (always). 
 
-- [Big Architecture Graphic (BAG)](https://github.com/eweviwo/BAG)  
-  [Repo][Graphic Design][No Maintainer]
+- [Big Architecture Graphic (BAG)](https://github.com/eweviwo/BAG)
 
-- [Mobile Application](https://github.com/eweviwo/mobile)  
-[Repo][App][React-Native][No Maintainer]
+Any prospective contributor can select any of the repositories below to work on. 
 
-- [Research Development](https://github.com/eweviwo/research)  
-[Repo][Notedpad][No Maintainer]
+- [Research Development](https://github.com/eweviwo/research)
 
-- [Producers & Presenters Form](https://github.com/eweviwo/applications)  
-[Repo][Google Forms][No Maintainer]
+- [Producers & Presenters Management](https://github.com/eweviwo/applications)
+
+- [Content Delivery Database](https://github.com/eweviwo/cdn)
 
 - [Production System](https://github.com/eweviwo/system)  
-[Repo][Ideation Stage][Python][No Maintainer]
 
-- [Content Delivery Network (CDN)](https://github.com/eweviwo/cdn)  
-[Repo][Ideation Stage][No Maintainer]
+- [Mobile Application](https://github.com/eweviwo/mobile)
+
+- [Podcasts for Web](https://github.com/eweviwo/mobile)
+
+
