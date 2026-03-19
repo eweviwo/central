@@ -15,7 +15,7 @@ The inspiration to name the project that way was borne out of the humility of th
 
 At its core, the project is about [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Eʋe cultural education. The aim is to make our cultural content more accessible to a new generation of Ewes around the world by using modern collaboration tools. 
 
-The project majorly involves building an infrastructure to facilitate a content experience through a mobile app. The infrastructure is divided into various repositories that will be gradually engineered to work as a system. 
+The project majorly involves building a system to facilitate a content experience through a mobile app. The project is divided into various repositories that will be engineered together. 
 
 The learning experience for the project covers research development, knowledge management, production management, application programming, project development and others to name a few. 
 
@@ -40,12 +40,12 @@ Starting the podcast series in 2023, we wrote [a piece](https://eweviwo.substack
 Starting this open source project in 2024, we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we taking this approach.
 ## What problem does it solve?
 
-The project will increase accessibility to (Ghanaian) Ewe cultural knowledge and reduce the mean time to socialise someone or be socialised yourself. 
+The project will increase accessibility to (Ghanaian) Ewe culture knowledge and reduce the mean time to socialise someone or be socialised yourself. 
 ## How to use the project
 
-One can currently listen to some already produced podcasts from our [our home page](https://linktr.ee/eweviwo) whiles our mobile app is under development. 
+One can currently listen to some already produced podcasts from our [our home page](https://linktr.ee/eweviwo) whiles the project's system is under development. 
 ## How to contribute to the project
 
-We encourage any prospective contributor to to begin by visiting [the breakdown page](https://github.com/eweviwo/central/blob/main/BREAKDOWN.md) of the project.
+We encourage any prospective contributor to begin by visiting [the breakdown page](https://github.com/eweviwo/central/blob/main/BREAKDOWN.md) of the project.
 
 
