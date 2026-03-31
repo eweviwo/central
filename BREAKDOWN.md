@@ -23,6 +23,6 @@ Any prospective contributor can select any of the repositories below to work on.
 
 - [Mobile Application](https://github.com/eweviwo/mobile)
 
-- [Podcasts for Web](https://github.com/eweviwo/mobile)
+- [Podcasts for Web](https://github.com/eweviwo/web)
 
 
