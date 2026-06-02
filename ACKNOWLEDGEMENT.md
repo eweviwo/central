@@ -1,8 +1,6 @@
 # ACKNOWLEDGEMENT
 
-The project is grateful to people, groups and institutions who have helped us in one way or the other for its progress. We continuously [welcome your donation](https://www.notion.so/Donations-1fc0d19c3976807ba1fded446a64f2ec?pvs=4). 
-
-We want to thank the following; 
+The project is grateful to individuals, groups and institutions who have assisted in various ways. We want to thank the following; 
 
 - Emeritus Professors D.E.K. Amenumey and G.K. Nukunya (both of blessed memory), who we have met in person before. They counselled us on researching. 
 
@@ -10,8 +8,8 @@ We want to thank the following;
 
 - Mr. Kweku Oppong, a business manager and philanthropist, for donating the project's first recorder, a Zoom H6. 
 
-- James S. Dzisah, Associate Professor with the Department of Sociology, University of Ghana (Legon). He has provided advice and recording venue. 
+- James S. Dzisah PhD, Department of Sociology, University of Ghana (Legon), for his assistance in providing a recording venue at the department.
 
-- Mabel Nunekpeku, a post-graduate linguistics student, who has being very instrumental in developing the literacy lessons. 
+- Mabel Nunekpeku, who has been very instrumental in developing initial literacy lessons. 
 
-- Etornam Sunnu, A Google Developer Expert (GDE). He is the first maintainer invited to the project. 
+- Etornam Sunnu, A Google Developer Expert (GDE) for his technical contribution. 
