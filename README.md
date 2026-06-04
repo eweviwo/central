@@ -29,23 +29,13 @@ We are bred in the city for much of our lives and have found gaps about our own 
 Starting the project in 2023, we wrote [a piece](https://eweviwo.substack.com/p/corporate-culture-and-self-transcendence) on why we took this journey. 
 
 Giving it a tech approach a year later (2024), we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we decided to take an open source approach.
-## Project Description
+## Our Prior Setup
 
-At its core, the project is about [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Eʋe cultural education. The aim is to make our cultural content more accessible to a new generation of Ewes around the world by using modern collaboration tools. 
+## Artificial Intelligence (AI) Emergence
 
-The project majorly involves building a system to facilitate a content experience through a mobile app. The project is divided into various repositories that will be engineered together. 
+## Building our Agent
 
-The learning experience for the project covers research development, knowledge management, production management, application programming, project development and others to name a few. 
+## Restructuring the Project
 
-Contribution from anyone will be guided by standards which will also be openly managed.  
-## What problem does it solve?
-
-The project will increase accessibility to (Ghanaian) Ewe culture knowledge and reduce the mean time to socialise someone or be socialised yourself. 
-## How to use the project
-
-One can currently listen to some already produced podcasts from our [our home page](https://linktr.ee/eweviwo) whiles the project's system is under development. 
-## How to contribute to the project
-
-We encourage any prospective contributor to begin by visiting [the breakdown page](https://github.com/eweviwo/central/blob/main/BREAKDOWN.md) of the project.
-
+## How to use and contribute to the project
 
