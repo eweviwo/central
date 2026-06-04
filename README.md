@@ -19,7 +19,16 @@ There are many others out there who are non-Ewes but have some affinity by great
 
 There are people out there who are looking for an experience of learning something new. They have never heard about the Ewe language before or ethnic group. We like them to pause for  minute before they consider putting Mt. Everest or getting on a hot air balloon at the top of their list. 
 
-To everyone described above includng Ewe people, we cordially invite you. 
+To everyone described above includng Ewe people, we cordially invite you, mia woezor!
+## What is the motivation?
+
+The founders of this project are [Woxoge](https://www.facebook.com/vdumashie) and [Dziedzorm](https://x.com/ocloothinks)
+
+We are bred in the city for much of our lives and have found gaps about our own cultural socialisation. This realisation became most strongest in about 2018. As much as we will often laugh at our selves over time about our ignorance, we realised it was not a laughing matter in the big picture and neded to do something about it to be in a place where we can socialise our children in the future. We begun to be spurred on by this self awareness, how are we going to socilaise our children. 
+
+Starting the project in 2023, we wrote [a piece](https://eweviwo.substack.com/p/corporate-culture-and-self-transcendence) on why we took this journey. 
+
+Giving it a tech approach a year later (2024), we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we decided to take an open source approach.
 ## Project Description
 
 At its core, the project is about [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Eʋe cultural education. The aim is to make our cultural content more accessible to a new generation of Ewes around the world by using modern collaboration tools. 
@@ -29,15 +38,6 @@ The project majorly involves building a system to facilitate a content experienc
 The learning experience for the project covers research development, knowledge management, production management, application programming, project development and others to name a few. 
 
 Contribution from anyone will be guided by standards which will also be openly managed.  
-## What is the motivation?
-
-The founders of this project are [Woxoge](https://www.facebook.com/vdumashie) and [Dziedzorm](https://x.com/ocloothinks)
-
-We are bred in the city for much of our lives and have found gaps about our own cultural knowledge set. This realisation was more than five year ago. As much as we will often laugh at our selves over time about our ignorance, we also realised it was not a laughing matter in the big picture and neded to do something about it to be in a place where we can socialise our children in the future. We begun to be spurred on by this self awareness, how are we going to socilaise our children. 
-
-Starting the podcast series in 2023, we wrote [a piece](https://eweviwo.substack.com/p/corporate-culture-and-self-transcendence) on why we took this journey. 
-
-Starting this open source project in 2024, we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we taking this approach.
 ## What problem does it solve?
 
 The project will increase accessibility to (Ghanaian) Ewe culture knowledge and reduce the mean time to socialise someone or be socialised yourself. 
