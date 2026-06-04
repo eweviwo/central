@@ -11,6 +11,15 @@ Eʋeviwó is an Eʋe phrase whiles its spelling in paranthesis (Eweviwo) is a un
 Eʋeviwó consists of three Eʋe words, which are Eʋe, vi and wó. Eʋe (or Ewe, as written in English context) is an African language, vi means child and wó serves as a plural marker in Eʋe. The words can come together as 'Children of Ewe', 'Ewe Children' or metaphorically 'Descendants of Ewe People'. 
 
 The inspiration to name the project that way was borne out of the humility of the constant learning experience of life. In trying to learn about a subject, you become a student of it. There are many philosophies and proverbs around the world that overlap the child and student within the universal learning experience. We want to observe, ask and listen as ardent children in this project. 
+## Welcoming Everyone
+
+The project can bring up some anxiety or inadequacies in some self-reflection. Some self-reflection can be your fluency level in the language, whether you can read and write the language, whether you are familiar or not with the Volta Region (Ghana) landscape, whether you like to be called by your Ewe name or not, whether you are interested in or not about clarifying any misperception about Ewes. Of course, one may also not be sure of the kind of contribution they can make to the project. 
+
+There are many others out there who are non-Ewes but have some affinity by great friendships, marriages, want to adopt Ewe children, have interest in staying in Volta Region (Ghana) or have always being intellectually curious about Ewe people. 
+
+There are people out there who are looking for an experience of learning something new. They have never heard about the Ewe language before or ethnic group. We like them to pause for  minute before they consider putting Mt. Everest or getting on a hot air balloon at the top of their list. 
+
+To everyone described above includng Ewe people, we cordially invite you. 
 ## Project Description
 
 At its core, the project is about [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Eʋe cultural education. The aim is to make our cultural content more accessible to a new generation of Ewes around the world by using modern collaboration tools. 
@@ -19,16 +28,7 @@ The project majorly involves building a system to facilitate a content experienc
 
 The learning experience for the project covers research development, knowledge management, production management, application programming, project development and others to name a few. 
 
-Contribution from anyone will be guided by standards which will also be openly managed. 
-## Welcoming Everyone
-
-The project will bring up anxiety or inadequacies in some self-reflection. Some self-reflection can be your fluency level in the language, whether you can read and write the language, whether you are familiar or not with the Volta Region (Ghana) landscape, whether you like to be called by your Ewe name or not, whether you are interested in or not about clarifying any misperception among many others. 
-
-There are many others out there who are non-Ewes but have some affinity by great friendships, marriages, want to adopt Ewe children, have interest in staying in Volta Region (Ghana) or have always being intellectually curious about Ewe people. 
-
-There are people out there who are looking for an experience of learning something new. They have never heard about the Ewe language before or ethnic group. We like them to pause for  minute before they consider putting Mt. Everest or getting on a hot air balloon at the top of their list. 
-
-To everyone described above includng Ewe people, we cordially invite you.  
+Contribution from anyone will be guided by standards which will also be openly managed.  
 ## What is the motivation?
 
 The founders of this project are [Woxoge](https://www.facebook.com/vdumashie) and [Dziedzorm](https://x.com/ocloothinks)
