@@ -49,4 +49,11 @@ The project will build its own AI agent to help drive its aims and objectives. T
 
 The restructuring following it means the earlier repositories that were designed have been removed to make way for a single repository for the development of this AI agent.
 ## How to use and contribute to the project
+Anyone can use and contribute to the project through any of the underlying methods;
+
+- One can evangelise the project by sharing it to any family and friends. 
+
+- One can make pull requests on the development of the agent. To know more about pull requests, kindly click here. 
+
+- One can reach out to the part of any of the three teams managing the project in the area of content, technology and administration. The breakdown of team members can be found here.
 
