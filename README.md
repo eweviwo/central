@@ -31,6 +31,9 @@ Starting the project in 2023, we wrote [a piece](https://eweviwo.substack.com/p/
 Giving it a tech approach a year later (2024), we wrote [another piece](https://eweviwo.substack.com/p/open-sourcing-eeviwo) on why we decided to take an open source approach.
 ## Our Prior Setup
 
+The project started with just podcast production as its aim. Its content development cycle meant we needed to refine its phases to work for us effectively and efficiently. 
+
+It brought about the interest to make it a collaborative and learning experience for more people to come on board. Repositories were designed to break down the project into research, production and technology. The idea was that anyone with any skill could find the area they prefer and contribute through setup processes.
 ## Artificial Intelligence (AI) Emergence
 
 ## Building our Agent
