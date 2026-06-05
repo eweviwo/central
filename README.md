@@ -33,9 +33,16 @@ Giving it a tech approach a year later (2024), we wrote [another piece](https://
 
 The project started with just podcast production as its aim. Its content development cycle meant we needed to refine its phases to work for us effectively and efficiently. 
 
-It brought about the interest to make it a collaborative and learning experience for more people to come on board. Repositories were designed to break down the project into research, production and technology. The idea was that anyone with any skill could find the area they prefer and contribute through setup processes.
+It brought about the interest to make it a collaborative and learning experience for more people to come on board. Repositories were designed to break down the project into research, production and technology. The idea was anyone with any skill could find the area they prefer and contribute through setup processes.
+
+Six repositories were setup for this direction.
 ## Artificial Intelligence (AI) Emergence
 
+The emergence of AI globally meant a lot of businesses and digital projects needed to adjust their roadmap to meet this paradigm shift. Learning and collaboration has been redefined to reduce human activity in the end to end process. 
+
+The project is therefore affected to rethink what it means to document and learn from one's own culture. There was a list of possible scenarios for this but attention needed to be given to simplicity, autonomy and purpose. 
+
+It took some time but we (co-founders) decided the project that started as an audio production excercise and has developed a culture-tech component will be guided by the evolution of AI.
 ## Building our Agent
 
 ## Restructuring the Project
