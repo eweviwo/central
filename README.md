@@ -45,7 +45,8 @@ The project is therefore affected to rethink what it means to document and learn
 It took some time but we (co-founders) decided the project that started as an audio production excercise and has developed a culture-tech component will be guided by the evolution of AI.
 ## Building our Agent
 
-## Restructuring the Project
+The project will build its own AI agent to help drive its aims and objectives. This is the part of the project that will be open sourced. 
 
+The restructuring following it means the earlier repositories that were designed have been removed to make way for a single repository for the development of this AI agent.
 ## How to use and contribute to the project
 
