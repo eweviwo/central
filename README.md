@@ -53,7 +53,7 @@ Anyone can use and contribute to the project through any of the underlying metho
 
 - One can evangelise the project by sharing it to any family and friends. 
 
-- One can make pull requests on the development of the agent. To know more about pull requests, kindly click here. 
+- One can [make pull requests](https://intelligent-olive-8dc.notion.site/Open-Source-Introduction-4460855a4bc14383ba0a1b990746335d) on the [development of the agent](https://github.com/eweviwo/agent). 
 
-- One can reach out to the part of any of the three teams managing the project in the area of content, technology and administration. The breakdown of team members can be found here.
+- One can reach out to the part of any of the three teams managing the project in the area of content, technology and administration.
 
