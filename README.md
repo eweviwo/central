@@ -51,9 +51,10 @@ The restructuring following it means the earlier repositories that were designed
 ## How to use and contribute to the project
 Anyone can use and contribute to the project through any of the underlying methods;
 
-- One can evangelise the project by sharing it to any family and friends. 
+- One can promote the project by sharing to family and friends as much as possible. 
 
 - One can [make pull requests](https://intelligent-olive-8dc.notion.site/Open-Source-Introduction-4460855a4bc14383ba0a1b990746335d) on the [development of the agent](https://github.com/eweviwo/agent). 
 
 - One can reach out to the part of any of the three teams managing the project in the area of content, technology and administration.
 
+This project is made with love from Ghana. We certainly invite you to be part of this project. Let's build the future of culture education. 
